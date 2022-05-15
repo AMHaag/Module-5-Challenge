@@ -1,6 +1,6 @@
 # Work Day Scheduler 
 
-Work Day Scheduler is a lightweight and simple single page application for planning your day.
+[Work Day Scheduler](https://amhaag.github.io/Module-5-Challenge/) is a lightweight and simple single page application for planning your day.
 
 
 ![Screnshot of App](assets/Screenshot.png)
